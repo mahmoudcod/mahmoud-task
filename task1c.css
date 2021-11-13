@@ -9,16 +9,20 @@
 .container {
     padding-left: 25px;
     padding-right: 25px;
+    align-items: center;
   }
   header {
     background-color: #009788;
+    align-items: center;
   }
    .logo {
     display: flex;
+    align-items: center;
     height: 4rem;
   } 
   header .logo h1 {
     color: #fff;
+    align-items: center;
   }
   .images {
       background-image: url(unknown.png);
@@ -31,13 +35,14 @@
     .Footer {
       display: flex;
       align-items: center;
-      height: 50px;
+      height: 40px;
+
     }
     footer .Footer h3 {
       color: #fff;
       font-size: 17px;
     }
-
+    
   
   
 
